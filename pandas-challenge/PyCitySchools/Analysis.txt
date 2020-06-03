@@ -1,0 +1,13 @@
+1) Schools with lower spending budget performed best. The students (of schools with lower spending summary) are having high math and reading scores. These schools performed well. Schools with spending summary of less than $584 per student have Overall passing score of 90.37.
+Schools with high spending summary between $645-$675 have overall passing score of 53.53 which is very low.
+
+
+
+2) Small and Medium size schools performed well. Students (of small and medium sized schools) have high math and reading scores and high overall passing score.
+
+
+3) Charter school students having high overall passing scores and high math scores as compared to District schools.
+
+
+
+
